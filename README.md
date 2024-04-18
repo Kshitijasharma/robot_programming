@@ -16,6 +16,5 @@ roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch <br>
 inside src <br>
 python script  <br>
 
-Code:
 
 
